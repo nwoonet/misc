@@ -1,4 +1,4 @@
-rand=$((1+$RANDOM%10))
+rand=$((1+$RANDOM%6))
 echo $rand
 if [[ $rand == 1 ]]; then
     say poop
