@@ -1,4 +1,4 @@
-# 🪤 poop-virus.sh - harmless macOS prank
+# poop virus
 
 This script randomly says “poop” out loud every ~30 minutes. Install it on your friend's Mac for a lighthearted prank. 
 - It runs silently in the background via `cron` using a stealthy directory.
