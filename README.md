@@ -1,9 +1,11 @@
 # poop virus
 
-This script randomly says “poop” out loud every ~30 minutes. Install it on your friend's Mac for a lighthearted prank. 
-- It runs silently in the background via `cron` using a stealthy directory.
-- Installed in `~/.sysupdate`
-- `poop-virus.sh` is renamed to sysd to blend in with system processes
+_With great power comes great responsibility._
+
+## Features
+- Says “poop” out loud every ~30 minutes.
+- Runs silently in the background via `cron` using a stealthy directory (`~/.sysupdate`)
+- `poop-virus.sh` is renamed to sysd to blend in with system processes.
 
 ---
 
